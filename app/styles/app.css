@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Noto+Serif|Noto+Sans:400,700);
+
+html, body {
+  margin: 20px;
+}
+
+p, div {
+  font-family: "Noto Serif", Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6, label {
+  font-family: "Noto Sans", "Lucida Sans", "Lucida Sans Unicode", sans-serif;
+}
+
+label {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #666;
+  display: block;
+}
